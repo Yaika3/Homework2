@@ -48,6 +48,19 @@ public class Main {
         System.out.println("Разница через остаток от деления = " + weightDifferenceTwo);
 
 
+        // Домашнее задание - 4
+        var workingHours = 640;
+        var employeeTime = 8;
+        var numberOfEmployees = ( workingHours / employeeTime);
+        System.out.println("Всего работников в компании – " + numberOfEmployees + " человек");
+        var ifMore = (numberOfEmployees + 94);
+        var numberOfEmployeesTwo = (workingHours / ifMore );
+        System.out.println("Если в компании работает "+ ifMore + " человека,то всего " + numberOfEmployeesTwo + " часа работы может быть поделено между сотрудниками");
+
+
+
+
+
 
 
 
