@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="685afee7-53a6-46cb-80b6-cdad5bb1f18e" name="Changes" comment="Test">
+    <list default="true" id="685afee7-53a6-46cb-80b6-cdad5bb1f18e" name="Changes" comment="answer 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -59,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666098829386</updated>
       <workItem from="1666098831102" duration="562000" />
-      <workItem from="1666099461380" duration="888000" />
+      <workItem from="1666099461380" duration="1224000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1666099698084</created>
@@ -68,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666099698084</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="answer 1">
+      <created>1666100667287</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666100667287</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +94,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+    <MESSAGE value="answer 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="answer 1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>1</line>
+          <properties class="Main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
