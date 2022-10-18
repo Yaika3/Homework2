@@ -21,6 +21,7 @@ public class Main {
         paper =paper - 7639;
         System.out.println(paper);
 
+        //Домашнее задание - 2
         var friend = 19;
         System.out.println(friend);
         friend = friend - 2;
@@ -35,6 +36,22 @@ public class Main {
         System.out.println(frog);
         frog = frog + 4;
         System.out.println(frog);
+
+       // Домашнее задание - 3
+        var boxerOne = 78.2;
+        var boxerTwo = 82.7;
+        var totalWeight = (boxerOne + boxerTwo);
+        System.out.println("Общий вес двух бойцов = " + totalWeight);
+        var weightDifference = (boxerTwo - boxerOne);
+        System.out.println("Разница = " + weightDifference);
+        var weightDifferenceTwo = (boxerTwo % boxerOne);
+        System.out.println("Разница через остаток от деления = " + weightDifferenceTwo);
+
+
+
+
+
+
 
 
 
