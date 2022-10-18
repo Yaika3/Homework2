@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="685afee7-53a6-46cb-80b6-cdad5bb1f18e" name="Changes" comment="answer 1">
+    <list default="true" id="685afee7-53a6-46cb-80b6-cdad5bb1f18e" name="Changes" comment="answer 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -59,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666098829386</updated>
       <workItem from="1666098831102" duration="562000" />
-      <workItem from="1666099461380" duration="1224000" />
+      <workItem from="1666099461380" duration="1888000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1666099698084</created>
@@ -75,7 +75,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666100667287</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="answer 2">
+      <created>1666100891614</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666100891614</updated>
+    </task>
+    <task id="LOCAL-00004" summary="answer 2">
+      <created>1666100920544</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666100920544</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,21 +109,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test" />
     <MESSAGE value="answer 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="answer 1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>1</line>
-          <properties class="Main" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="answer 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="answer 2" />
   </component>
 </project>
